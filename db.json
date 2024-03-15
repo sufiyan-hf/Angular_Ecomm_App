@@ -1,0 +1,416 @@
+{
+  "seller": [
+    {
+      "id": "348e",
+      "name": "sufiyan",
+      "email": "sufi@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "6819",
+      "name": "aamir",
+      "email": "aamair@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "3a1e",
+      "name": "zaid",
+      "password": "123",
+      "email": "zaid@gmail.com"
+    },
+    {
+      "id": "d6b0",
+      "name": "zaid",
+      "password": "123",
+      "email": "zaid@gmail.com"
+    },
+    {
+      "id": "c93c",
+      "name": "zaid",
+      "password": "123",
+      "email": "zaid@gmail.com"
+    },
+    {
+      "id": "bd30",
+      "name": "anas",
+      "password": "123",
+      "email": "anas@gmail"
+    },
+    {
+      "id": "c938",
+      "name": "saqib",
+      "password": "123",
+      "email": "saqib@gmail"
+    },
+    {
+      "id": "d2c5",
+      "name": "mahedsh",
+      "password": "123",
+      "email": "mahesh@gmail"
+    },
+    {
+      "id": "83a0",
+      "name": "habib",
+      "password": "123",
+      "email": "habib@gmail"
+    },
+    {
+      "id": "d593",
+      "name": "aqib",
+      "password": "123",
+      "email": "aqib@gmail"
+    },
+    {
+      "id": "f9ec",
+      "name": "gabbar",
+      "password": "123",
+      "email": "gabbar@gmail"
+    },
+    {
+      "id": "69b8",
+      "name": "adarsh",
+      "password": "123",
+      "email": "adarsh@gmail"
+    },
+    {
+      "id": "ee05",
+      "name": "rahul",
+      "password": "123",
+      "email": "rahul@gmail"
+    }
+  ],
+  "products": [
+    {
+      "name": "iphone 14",
+      "price": "100",
+      "category": "phone",
+      "color": "black",
+      "description": "good phone",
+      "image": "https://www.pngall.com/wp-content/uploads/13/Samsung-Galaxy-PNG-File.png",
+      "id": "d3df"
+    },
+    {
+      "name": "iphone",
+      "price": "200",
+      "category": "phone",
+      "color": "black",
+      "description": "Good camera quality",
+      "image": "https://i.pinimg.com/736x/b5/b2/5b/b5b25b08ba70641bd71047863d3a5c55.jpg",
+      "id": "d3df11"
+    },
+    {
+      "name": "iphone11",
+      "price": "300",
+      "category": "phone",
+      "color": "black",
+      "description": "8GB RAM",
+      "image": "https://static.vecteezy.com/system/resources/previews/022/722/945/original/samsung-galaxy-s23-ultra-transparent-image-free-png.png",
+      "id": "aaaa"
+    },
+    {
+      "name": "HP laptop",
+      "price": "1",
+      "category": "mmm",
+      "color": "hhh",
+      "description": "nnn",
+      "image": "https://www.pngall.com/wp-content/uploads/2016/05/Laptop-Free-Download-PNG.png",
+      "id": "3e05"
+    },
+    {
+      "name": "laptop",
+      "price": "1",
+      "category": "mmm",
+      "color": "white",
+      "description": "nnn",
+      "image": "https://png.pngtree.com/element_our/20190528/ourmid/pngtree-physical-ultra-thin-laptop-image_1159591.jpg",
+      "id": "3e05"
+    },
+    {
+      "id": "ac84",
+      "name": "nike shoes",
+      "price": "100",
+      "category": "hhh",
+      "color": "ccc",
+      "description": "vvvv",
+      "image": "https://parspng.com/wp-content/uploads/2023/02/shoespng.parspng.com-12.png"
+    },
+    {
+      "name": "ferrari",
+      "price": "100",
+      "category": "hhh",
+      "color": "ccc",
+      "description": "vvvv",
+      "image": "https://www.pngall.com/wp-content/uploads/13/Nike-Shoes-PNG.png",
+      "id": "120d"
+    },
+    {
+      "id": "f7f6",
+      "name": "motorolla",
+      "price": "1500",
+      "category": "mobile",
+      "color": "black",
+      "description": "moto phone",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4AzEYyua5bRKza6-9gEDt4qAvx6uzbCieTwdhguNEkA&s"
+    },
+    {
+      "id": "bd7d",
+      "name": "jeans",
+      "price": "100",
+      "category": "cloth",
+      "color": "blue",
+      "description": "this is jeans",
+      "image": "https://banner2.cleanpng.com/20180208/yge/kisspng-jeans-denim-stock-photography-clothing-fly-a-stacked-pair-of-jeans-5a7d1704eb5b18.339399861518147332964.jpg"
+    },
+    {
+      "id": "6f8f",
+      "name": "football",
+      "price": "1400",
+      "category": "sports",
+      "color": "orange",
+      "description": "this is ball",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_P8f_N6ybPwJ32rtvzkhSt1i-x1b4SFfIfDnJqTpTtg&s"
+    },
+    {
+      "id": "ecd2",
+      "name": "carrom",
+      "price": "150",
+      "category": "play",
+      "color": "cream",
+      "description": "this is carrom",
+      "image": "https://static.vecteezy.com/system/resources/previews/000/184/359/non_2x/carrom-board-illustration-vector.jpg"
+    },
+    {
+      "id": "2045",
+      "name": "football",
+      "price": "1000",
+      "category": "sports",
+      "color": "white",
+      "description": "good ",
+      "image": "https://img.freepik.com/free-vector/vector-isolated-realistic-soccer-ball-white_1284-41932.jpg?size=338&ext=jpg&ga=GA1.1.87170709.1707264000&semt=ais"
+    }
+  ],
+  "users": [
+    {
+      "id": "4721",
+      "name": "habib",
+      "email": "abc@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "2bb4",
+      "name": "mahesh",
+      "email": "mahesh@gmail",
+      "password": "123"
+    },
+    {
+      "id": "92b6",
+      "name": "zaid",
+      "email": "zaid@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "c8d9",
+      "name": "aamir",
+      "email": "aamir@gmail",
+      "password": "123"
+    },
+    {
+      "id": "fde0",
+      "name": "samir",
+      "email": "samir@gmail",
+      "password": "123"
+    }
+  ],
+  "cart": [
+    {
+      "id": "bf8b",
+      "name": "laptop",
+      "price": "1",
+      "category": "mmm",
+      "color": "hhh",
+      "description": "nnn",
+      "image": "https://www.pngall.com/wp-content/uploads/2016/05/Laptop-Free-Download-PNG.png",
+      "quantity": 1,
+      "userId": "92b6",
+      "productId": "3e05"
+    },
+    {
+      "id": "140f",
+      "name": "carrom",
+      "price": "150",
+      "category": "play",
+      "color": "cream",
+      "description": "this is carrom",
+      "image": "https://static.vecteezy.com/system/resources/previews/000/184/359/non_2x/carrom-board-illustration-vector.jpg",
+      "quantity": 1,
+      "productId": "ecd2",
+      "userId": null
+    },
+    {
+      "id": "c544",
+      "name": "jeans",
+      "price": "100",
+      "category": "cloth",
+      "color": "blue",
+      "description": "this is jeans",
+      "image": "https://banner2.cleanpng.com/20180208/yge/kisspng-jeans-denim-stock-photography-clothing-fly-a-stacked-pair-of-jeans-5a7d1704eb5b18.339399861518147332964.jpg",
+      "quantity": 4,
+      "productId": "bd7d",
+      "userId": "92b6"
+    },
+    {
+      "id": "5b83",
+      "name": "iphone",
+      "price": "200",
+      "category": "phone",
+      "color": "black",
+      "description": "bad phone",
+      "image": "https://media.istockphoto.com/id/1364620309/photo/iphone-13-pro.jpg?s=1024x1024&w=is&k=20&c=jFnbznulZpNyTXl9I-tqZAmMJzs5MUrNDp5EIdoB7AE=",
+      "quantity": 1,
+      "userId": "92b6",
+      "productId": "d3df11"
+    },
+    {
+      "id": "74da",
+      "name": "nike shoes",
+      "price": "100",
+      "category": "hhh",
+      "color": "ccc",
+      "description": "vvvv",
+      "image": "https://parspng.com/wp-content/uploads/2023/02/shoespng.parspng.com-12.png",
+      "quantity": 2,
+      "productId": "ac84",
+      "userId": "2bb4"
+    },
+    {
+      "id": "8e95",
+      "name": "laptop",
+      "price": "1",
+      "category": "mmm",
+      "color": "hhh",
+      "description": "nnn",
+      "image": "https://www.pngall.com/wp-content/uploads/2016/05/Laptop-Free-Download-PNG.png",
+      "quantity": 1,
+      "productId": "3e05",
+      "userId": "2bb4"
+    },
+    {
+      "id": "51fa",
+      "name": "ferrari",
+      "price": "100",
+      "category": "hhh",
+      "color": "ccc",
+      "description": "vvvv",
+      "image": "https://www.pngall.com/wp-content/uploads/13/Nike-Shoes-PNG.png",
+      "quantity": 1,
+      "userId": "2bb4",
+      "productId": "120d"
+    },
+    {
+      "id": "f0b9",
+      "name": "carrom",
+      "price": "150",
+      "category": "play",
+      "color": "cream",
+      "description": "this is carrom",
+      "image": "https://static.vecteezy.com/system/resources/previews/000/184/359/non_2x/carrom-board-illustration-vector.jpg",
+      "quantity": 1,
+      "productId": "ecd2",
+      "userId": "2bb4"
+    },
+    {
+      "id": "db77",
+      "name": "motorolla",
+      "price": "1500",
+      "category": "mobile",
+      "color": "black",
+      "description": "moto phone",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4AzEYyua5bRKza6-9gEDt4qAvx6uzbCieTwdhguNEkA&s",
+      "quantity": 1,
+      "userId": "2bb4",
+      "productId": "f7f6"
+    },
+    {
+      "id": "8696",
+      "name": "iphone11",
+      "price": "300",
+      "category": "phone",
+      "color": "black",
+      "description": "very bad phone",
+      "image": "https://media.istockphoto.com/id/1364620309/photo/iphone-13-pro.jpg?s=1024x1024&w=is&k=20&c=jFnbznulZpNyTXl9I-tqZAmMJzs5MUrNDp5EIdoB7AE=",
+      "quantity": 1,
+      "userId": "2bb4",
+      "productId": "aaaa"
+    },
+    {
+      "id": "4aca",
+      "name": "iphone11",
+      "price": "300",
+      "category": "phone",
+      "color": "black",
+      "description": "very bad phone",
+      "image": "https://media.istockphoto.com/id/1364620309/photo/iphone-13-pro.jpg?s=1024x1024&w=is&k=20&c=jFnbznulZpNyTXl9I-tqZAmMJzs5MUrNDp5EIdoB7AE=",
+      "quantity": 1,
+      "userId": "2bb4",
+      "productId": "aaaa"
+    },
+    {
+      "id": "699b",
+      "name": "motorolla",
+      "price": "1500",
+      "category": "mobile",
+      "color": "black",
+      "description": "moto phone",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4AzEYyua5bRKza6-9gEDt4qAvx6uzbCieTwdhguNEkA&s",
+      "quantity": 1,
+      "userId": "92b6",
+      "productId": "f7f6"
+    },
+    {
+      "id": "5a8f",
+      "name": "nike shoes",
+      "price": "100",
+      "category": "hhh",
+      "color": "ccc",
+      "description": "vvvv",
+      "image": "https://parspng.com/wp-content/uploads/2023/02/shoespng.parspng.com-12.png",
+      "quantity": 1,
+      "userId": "92b6",
+      "productId": "ac84"
+    },
+    {
+      "id": "7aa5",
+      "name": "carrom",
+      "price": "150",
+      "category": "play",
+      "color": "cream",
+      "description": "this is carrom",
+      "image": "https://static.vecteezy.com/system/resources/previews/000/184/359/non_2x/carrom-board-illustration-vector.jpg",
+      "quantity": 1,
+      "userId": "92b6",
+      "productId": "ecd2"
+    },
+    {
+      "id": "dd0b",
+      "name": "jeans",
+      "price": "100",
+      "category": "hhh",
+      "color": "bbb",
+      "description": "nnn",
+      "image": "https://parspng.com/wp-content/uploads/2023/02/shoespng.parspng.com-12.png",
+      "quantity": 3,
+      "userId": "92b6",
+      "productId": null
+    }
+  ],
+  "orders": [
+    {
+      "id": "ae60",
+      "email": "aamir@gmail",
+      "address": "pune",
+      "contact": "9988",
+      "totalPrice": 1800,
+      "userId": "c8d9"
+    }
+  ]
+}

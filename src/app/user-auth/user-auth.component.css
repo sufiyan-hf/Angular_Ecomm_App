@@ -1,0 +1,13 @@
+.user-auth a{
+    color: blueviolet;
+    cursor: pointer;
+}
+
+.invalid-input{
+    color: red;
+    margin-top: -20px;
+    margin-left: -120px;
+}
+button:disabled{
+    cursor: not-allowed;
+}
